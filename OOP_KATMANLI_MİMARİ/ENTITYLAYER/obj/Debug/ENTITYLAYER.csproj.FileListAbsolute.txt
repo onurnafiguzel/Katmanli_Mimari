@@ -1,0 +1,6 @@
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\ENTITYLAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\ENTITYLAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\ENTITYLAYER\obj\Debug\ENTITYLAYER.csprojAssemblyReference.cache
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\ENTITYLAYER\obj\Debug\ENTITYLAYER.csproj.CoreCompileInputs.cache
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\ENTITYLAYER\obj\Debug\ENTITYLAYER.dll
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\ENTITYLAYER\obj\Debug\ENTITYLAYER.pdb

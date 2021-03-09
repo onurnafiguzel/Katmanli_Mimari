@@ -1,0 +1,9 @@
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\FACADELAYER\bin\Debug\FACADELAYER.dll
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\FACADELAYER\bin\Debug\FACADELAYER.pdb
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\FACADELAYER\bin\Debug\ENTITYLAYER.dll
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\FACADELAYER\bin\Debug\ENTITYLAYER.pdb
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\FACADELAYER\obj\Debug\FACADELAYER.csprojAssemblyReference.cache
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\FACADELAYER\obj\Debug\FACADELAYER.csproj.CoreCompileInputs.cache
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\FACADELAYER\obj\Debug\FACADELAYER.csproj.CopyComplete
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\FACADELAYER\obj\Debug\FACADELAYER.dll
+C:\Users\onggu\source\repos\BÜYÜK PROJELER\OOP_KATMANLI_MİMARİ\FACADELAYER\obj\Debug\FACADELAYER.pdb
